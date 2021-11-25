@@ -9,5 +9,6 @@ Make sure you have Rust, Cargo, Node.js and npm (or yarn) installed.
 
 `npm run tauri:build` to build the tool.
 
+![image](https://i.imgur.com/wq3zaxl.png)
 
 **Note: This may go against CS:GO's fairplay guidelines.  I'm not responsible for any issues you may encounter including VAC bans.  Use at your own risk!**
