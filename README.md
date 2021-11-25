@@ -1,24 +1,13 @@
 # csgo-spammer
 
-## Project setup
-```
-npm install
-```
+An external tool to spam a list of messages in CS:GO, enjoy
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### To Build
+Make sure you have Rust, Cargo, Node.js and npm (or yarn) installed.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+`npm install` to install the dependancies of the project
 
-### Lints and fixes files
-```
-npm run lint
-```
+`npm run tauri:build` to build the tool.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+**Note: This may go against CS:GO's fairplay guidelines.  I'm not responsible for any issues you may encounter including VAC bans.  Use at your own risk!**
